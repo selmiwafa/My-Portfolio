@@ -310,22 +310,22 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .uiux {
-  width: 95%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .adobe {
   width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .figma {
-  width: 95%;
+  width: 100%;
 }
 
 .stat-title {
